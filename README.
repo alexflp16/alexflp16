@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" 
 soberon.us:25461//////////\\\\\\\\\\live//////////\\\\\\\\\\cVvkPUQxu5//////////\\\\\\\\\\sEaVt98khk//////////\\\\\\\\\\61.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" 
 soberon.us:25461//////////\\\\\\\\\\live//////////\\\\\\\\\\cVvkPUQxu5//////////\\\\\\\\\\sEaVt98khk//////////\\\\\\\\\\63.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1280px-CinecanalLA.png" 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1280px-CinecanalLA.png" 
 soberon.us:25461//////////\\\\\\\\\\live//////////\\\\\\\\\\cVvkPUQxu5//////////\\\\\\\\\\sEaVt98khk//////////\\\\\\\\\\64.m3u8
